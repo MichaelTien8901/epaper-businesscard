@@ -32,6 +32,11 @@ Use Waveshare e-ink e-paper to build a business card application
    
 ## Button Function defined
   * Button 1 - Show Business Card
+     ![Business Card](https://github.com/MichaelTien8901/epaper-businesscard/blob/master/pictures/pic1.png){:height="50%" width="50%"}
   * Button 2 - Show WeChat QR Code
+     ![WeChat QR](https://github.com/MichaelTien8901/epaper-businesscard/blob/master/pictures/pic2.png){:height="50%" width="50%"}
   * Button 3 - Show Line QR Code
+     ![Line QR](https://github.com/MichaelTien8901/epaper-businesscard/blob/master/pictures/pic3.png){:height="50%" width="50%"}
   * Button 4 - Show Demo Picture
+     ![Demo Screen](https://github.com/MichaelTien8901/epaper-businesscard/blob/master/pictures/pic4.png){:height="50%" width="50%"}
+     
